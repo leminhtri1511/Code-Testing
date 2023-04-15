@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
-
+//ádasdasdasdwqerjwiernwejrfn
 string convertToWords(long long n) 
 {
     string ones[] = { "", "mot ", "hai ", "ba ", "bon ", "nam ", "sau ", "bay ", "tam ", "chin ", "muoi ", "muoi mot ", "muoi hai ", "muoi ba ", "muoi bon ", "muoi nam ", "muoi sau ", "muoi bay ", "muoi tam ", "muoi chin " };
